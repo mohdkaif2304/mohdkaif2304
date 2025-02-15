@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in **Java**, **
 🚀 **Tech**: Java, NLP, API Integration  
 📬 **Features**: Auto email replies, Gmail integration  
 
-![Email GIF](https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif)  
+![Email Generator GIF](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)  
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in **Java**, **
 🚀 **Tech**: Java, Retrofit, XML, API  
 📌 **Features**: Category-wise news, dynamic updates  
 
-![News GIF](https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif)  
+![News App GIF](https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif)  
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in **Java**, **
 🚀 **Tech**: Java, Firebase, PeerJS  
 🎥 **Features**: Random user pairing, real-time video calls  
 
-![Calling GIF](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)  
+![Video Calling GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
 
 ---
 
