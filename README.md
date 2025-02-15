@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in **Java**, **
 🚀 **Tech**: Java, NLP, API Integration  
 📬 **Features**: Auto email replies, Gmail integration  
 
-![Email Generator GIF](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)  
-
 ---
 
 ### 2. **[News Feed](https://github.com/mohdkaif2304/NewsTodayTimes)**  
@@ -21,16 +19,12 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in **Java**, **
 🚀 **Tech**: Java, Retrofit, XML, API  
 📌 **Features**: Category-wise news, dynamic updates  
 
-![News App GIF](https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif)  
-
 ---
 
 ### 3. **[Random Calling App](https://github.com/mohdkaif2304/Random-Calling)**  
 📞 **A peer-to-peer video calling app** using Firebase & PeerJS  
 🚀 **Tech**: Java, Firebase, PeerJS  
-🎥 **Features**: Random user pairing, real-time video calls  
-
-![Video Calling GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+🎥 **Features**: Random user pairing, real-time video calls   
 
 ---
 
