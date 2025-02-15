@@ -5,10 +5,9 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in **Java**, **
 ## 🚀 Projects
 
 ### 1. **[EmailReply Generator](https://github.com/mohdkaif2304/Email_Reply_Generator)**
-   - **Description**: An email reply generator using **Natural Language Processing (NLP)** to create context-aware email responses based on input queries.
+   - **Description**: An email reply generator to create context-aware email responses based on input queries.
    - **Technologies Used**:
      - Java ☕
-     - NLP libraries (e.g., OpenNLP or similar) 🧠
      - Text analysis and parsing 📑
    - **Features**:
      - Automatic email reply generation ✉️
@@ -54,6 +53,13 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in **Java**, **
 ![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdkaif2304&show_icons=true&count_private=true)
 
 ---
+
+## Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mohdkaifkhan) 🔗
